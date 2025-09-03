@@ -1,2 +1,2 @@
 # rama_filter
-procesa datos de pm2.5 de la RAMA a un formato estándar
+Procesa los datos de pm2.5 de la RAMA y los convierte a un formato estándar
